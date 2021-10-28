@@ -12,6 +12,10 @@
   "activationEvents": [
     "*"
   ],
+  "repository": {
+    "url": "https://github.com/CyberAP/panel-toggle-button",
+    "type": "GitHub"
+  },
   "publisher": "StanislavLashmanov",
   "main": "./dist/extension.js",
   "scripts": {
